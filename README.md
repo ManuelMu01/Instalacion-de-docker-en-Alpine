@@ -75,6 +75,6 @@ y pedimos la ip
 
 ![q9](https://user-images.githubusercontent.com/91874537/165069218-8c30b8c6-d0b0-4d72-b176-1fa9e9662174.PNG)
 
-### Ejecutamos el apk add docker y se descargara
+### Ejecutamos el apk add docker y se descargará
 
 ![q10](https://user-images.githubusercontent.com/91874537/165069703-b1b59577-8303-4640-bfbe-2add6e778a1d.PNG)
